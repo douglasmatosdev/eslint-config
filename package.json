@@ -1,0 +1,46 @@
+{
+  "name": "@douglasmatosdev/eslint-config",
+  "version": "1.0.0",
+  "description": "eslint config and prettier by douglasmatosdev",
+  "main": "index.js",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douglasmatosdev/eslint-config.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "douglasmatosdev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/douglasmatosdev/eslint-config/issues"
+  },
+  "homepage": "https://github.com/douglasmatosdev/eslint-config#readme",
+  "peerDependencies": {
+    "eslint": "^8",
+    "typescript": ">=4"
+  },
+  "peerDependenciesMeta": {
+    "typescript": {
+      "optional": true
+    }
+  },
+  "dependencies": {
+    "eslint": "^8",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.29.0",
+    "eslint-plugin-n": "^16.2.0",
+    "eslint-plugin-prettier": "^5.0.1",
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-standard": "^5.0.0",
+    "prettier": "^3.0.3"
+  },
+  "devDependencies": {}
+}

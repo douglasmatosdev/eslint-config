@@ -1,0 +1,3 @@
+npm login
+npm init --scope=@douglasmatosdev
+npm publish --access public      
