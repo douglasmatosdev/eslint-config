@@ -1,6 +1,6 @@
 {
   "name": "@douglasmatosdev/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "eslint config and prettier by douglasmatosdev",
   "main": "index.js",
   "private": false,
@@ -30,6 +30,8 @@
     }
   },
   "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.9.0",
+    "@typescript-eslint/parser": "^6.9.0",
     "eslint": "^8",
     "eslint-config-prettier": "^9.0.0",
     "eslint-config-standard": "^17.1.0",
@@ -41,6 +43,5 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-standard": "^5.0.0",
     "prettier": "^3.0.3"
-  },
-  "devDependencies": {}
+  }
 }
