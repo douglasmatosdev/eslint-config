@@ -1,6 +1,6 @@
 {
   "name": "@douglasmatosdev/eslint-config",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "eslint config and prettier by douglasmatosdev",
   "main": "index.js",
   "private": false,
